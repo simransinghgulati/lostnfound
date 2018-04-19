@@ -1,0 +1,41 @@
+body{
+	background-color: #FCFCF4;
+}
+
+p{
+	text-align: justify;
+}
+.navbar img{
+	width: 50px;
+}
+.navbar li{
+	padding: 5px 10px;
+}
+.carousel{
+	padding: 50px 0px;
+}
+#about{
+	margin: 100px 0px;
+}
+
+#about .caption h3{
+	padding: 20px 0px;
+}
+
+#report{
+	margin: 100px 0px;
+}
+
+#report h2{
+	text-align: center;
+	margin: 70px 0px;
+}
+#report p{
+	line-height: 35px; 
+}
+.col-sm-6{
+	padding-top: 20px;
+}
+.bottom .navbar-brand a:hover{
+	color: green;
+	text-decoration: none;
